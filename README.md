@@ -2,4 +2,4 @@
 
 trial repo
 <br>
-Author- Tanmoy Tudu (YouTube)
+Author- Tanmoy Tudu
